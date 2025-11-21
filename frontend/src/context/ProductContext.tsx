@@ -39,7 +39,7 @@ export const ProductProvider: React.FC<{ children: React.ReactNode }> = ({ child
   const [products, setProducts] = useState<Product[]>([]);
   const [loading, setLoading] = useState(true);
 
-  const API_URL = 'https://quickmart.onrender.com/api';
+  const API_URL = 'https://quickmart-ujgs.onrender.com/api';
 
   const fetchProducts = async () => {
     try {
