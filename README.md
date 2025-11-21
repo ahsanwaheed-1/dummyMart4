@@ -1,2 +1,2 @@
 # dummyMart4
-Dummy Mart 4
+QuickMart
